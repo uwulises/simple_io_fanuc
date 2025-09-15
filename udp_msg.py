@@ -3,7 +3,7 @@ import time
 import socket
 
 UDP_IP = "192.168.1.5"
-UDP_PORT = 4712
+UDP_PORT = 4711
 
 GPIO.setmode(GPIO.BCM)
 INPUT_PIN = 17  # Example: using GPIO 17
